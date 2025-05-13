@@ -464,7 +464,7 @@ public class HomeFragment extends Fragment {
         });
 
         resetRobotBtn.setOnClickListener(v -> {
-            toast("reset robot");
+            toast("reset everything");
             ArrayList<String> commands = new ArrayList<>();
 //            commands.add("SF050");
             //RpiController.sendToRpi(RpiController.getNavDetails(commands));

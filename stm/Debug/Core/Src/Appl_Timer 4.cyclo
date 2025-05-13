@@ -1,0 +1,5 @@
+../Core/Src/Appl_Timer.c:10:6:InitilizeTimer	1
+../Core/Src/Appl_Timer.c:19:6:StartTimer	2
+../Core/Src/Appl_Timer.c:58:9:Timer_IsTimeout	4
+../Core/Src/Appl_Timer.c:85:6:StopTimer	1
+../Core/Src/Appl_Timer.c:90:9:Timer_IsRunning	1

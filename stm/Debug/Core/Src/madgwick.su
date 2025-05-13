@@ -1,0 +1,2 @@
+../Core/Src/madgwick.c:10:6:MadgwickAHRSupdate	96	static
+../Core/Src/madgwick.c:59:6:Madgwick_quaternionToEuler	48	static
